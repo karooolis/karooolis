@@ -1,9 +1,5 @@
-# 🥑 Karolis Ramanauskas
+## Full-stack software engineer
 
-## Software Engineer & Smart Contracts Auditor 
+My name is Karolis Ramanauskas 👋 I'm a full-stack software engineer who enjoys building products. I've worked at small start-ups, as well as big companies such as Uber and Volvo Cars. I'm always on the lookout for more efficient ways to ship reliable software. You can follow me on [twitter](https://twitter.com/karooolis) or [visit my personal site](https://krl.is/).
 
-I am a full-stack software engineer turned smart contracts auditor. I've worked at companies like Uber, Toptal and Volvo Cars. I've also built my own side-projects, most of which are now are defunct, or have been sold.
-
-For the last year I've turned my focus to work in the Web3 space, and am honing my skills as a smart contracts auditor. You'll see me on [twitter](https://twitter.com/home) sharing my learnings. You can also visit my [digital garden (krl.is)](https://krl.is/) which I carefully tend, storing everything, ranging from travel destinations and recipes, to smart contract attack vectors and Solidity snippets.
-
-<strong>I work/worked with:</strong> Solidity, JavaScript/TypeScript, ReactJS, SQL, Redis, MongoDB, Docker, a little bit of everything else...
+<strong>I work/worked with: </strong>JavaScript/TypeScript, React/Next.js, Node.js, Solidity, GraphQL, Docker, and a little bit of everything else...
