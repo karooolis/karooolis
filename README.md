@@ -1,4 +1,4 @@
-# Hello world, I'm Karolis 👋
+# Hi there, I'm Karolis 👋
 
 Currently, working as an independent full-stack (frontend-leaning) developer. Enjoy working at the intersection of design, engineering, and product.
 
