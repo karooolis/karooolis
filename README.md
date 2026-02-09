@@ -16,5 +16,5 @@ Now I am also diving deeper into creative development. More demos and updates co
 ## Find me on
 
 - [karolisram.com](https://karolisram.com/)
-- [X (formerly Twitter)](https://x.com/karooolis)
 - [LinkedIn](https://linkedin.com/in/karolisram)
+- [X](https://x.com/karooolis)
