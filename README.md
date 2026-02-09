@@ -1,5 +1,20 @@
-## Full-stack software engineer
+# Hello world, I'm Karolis 👋
 
-My name is Karolis Ramanauskas 👋 I'm a full-stack software engineer who enjoys building products. I've worked at small start-ups, as well as big companies such as Uber and Volvo Cars. I'm always on the lookout for more efficient ways to ship reliable software. You can follow me on [twitter](https://twitter.com/karooolis) or [visit my personal site](https://krl.is/).
+Currently, working as an independent full-stack (frontend-leaning) developer. Enjoy working at the intersection of design, engineering, and product.
 
-<strong>I work/worked with: </strong>JavaScript/TypeScript, React/Next.js, Node.js, Solidity, GraphQL, Docker, and a little bit of everything else...
+Now I am also diving deeper into creative development. More demos and updates coming soon.
+
+## Favorite tech & tools
+
+- Next.js/React
+- TailwindCSS
+- Framer Motion
+- Supabase
+- Figma
+- Cursor
+
+## Find me on
+
+- [karolisram.com](https://karolisram.com/)
+- [X (formerly Twitter)](https://x.com/karooolis)
+- [LinkedIn](https://linkedin.com/in/karolisram)
