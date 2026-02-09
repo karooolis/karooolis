@@ -4,6 +4,8 @@ Currently, working as an independent full-stack (frontend-leaning) developer. En
 
 Now I am also diving deeper into creative development. More demos and updates coming soon.
 
+See my personal website → [karolisram.com](https://www.karolisram.com/)
+
 ## Favorite tech & tools
 
 - Next.js/React
@@ -12,9 +14,3 @@ Now I am also diving deeper into creative development. More demos and updates co
 - Framer Motion
 - Supabase
 - Figma
-
-## Find me on
-
-- [karolisram.com](https://karolisram.com/)
-- [LinkedIn](https://linkedin.com/in/karolisram)
-- [X](https://x.com/karooolis)
