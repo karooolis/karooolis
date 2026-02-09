@@ -8,10 +8,10 @@ Now I am also diving deeper into creative development. More demos and updates co
 
 - Next.js/React
 - TailwindCSS
+- Vercel AI SDK
 - Framer Motion
 - Supabase
 - Figma
-- Cursor
 
 ## Find me on
 
