@@ -14,3 +14,5 @@ See my personal website → [karolisram.com](https://www.karolisram.com/)
 - Framer Motion
 - Supabase
 - Figma
+
+![Profile Views](https://komarev.com/ghpvc/?username=karooolis&color=blue)
