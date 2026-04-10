@@ -10,9 +10,11 @@ See my personal website → [karolisram.com](https://www.karolisram.com/)
 
 - Next.js/React
 - TailwindCSS
-- Vercel AI SDK
+- Three.js
 - Framer Motion
+- Rust
 - Supabase
 - Figma
+- .. and more, based on the task
 
 ![Profile Views](https://komarev.com/ghpvc/?username=karooolis&color=blue)
